@@ -27,7 +27,7 @@ nav {
 }
 .menu-right {
     float: right;
-}
+} 
 .menu-left { 
     float: left;
     display: flex;
@@ -63,7 +63,7 @@ span {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 32px;
     align-items: center;
-    margin-left: 200px;
+    margin-left: 199px;
     margin-right: 200px;
 }
 
